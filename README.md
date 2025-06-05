@@ -56,8 +56,8 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/wallfacer-web/document-analyzer.git
-cd document-analyzer
+git clone https://github.com/wallfacer-web/Prompt-Writing.git
+cd Prompt-Writing
 ```
 
 2. 安装依赖
@@ -149,7 +149,7 @@ conda activate graphrag-0.50
 ## 📞 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- GitHub Issues: [项目Issues页面](https://github.com/wallfacer-web/document-analyzer/issues)
+- GitHub Issues: [项目Issues页面](https://github.com/wallfacer-web/Prompt-Writing/issues)
 - Email: [您的邮箱]
 
 ---
