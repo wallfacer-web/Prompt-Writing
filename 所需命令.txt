@@ -1,0 +1,9 @@
+本地深度研究
+docker start searxng
+docker start local-deep-research
+
+localhost:5000
+
+GraphRAG
+conda activate graphrag-0.50
+graphrag query --root ./ragtest --method global --query "What are the fundamental frameworks and methodologies for effective prompt engineering?"
