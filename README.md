@@ -150,7 +150,7 @@ conda activate graphrag-0.50
 
 如有问题或建议，请通过以下方式联系：
 - GitHub Issues: [项目Issues页面](https://github.com/wallfacer-web/Prompt-Writing/issues)
-- Email: [您的邮箱]
+- Email: 903098625@qq.com
 
 ---
 
